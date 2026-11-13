@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+dist/
+artifacts/
+**/TestResults/
+profiles.json
+*.log
+.vs/
+*.user
